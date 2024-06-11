@@ -1,9 +1,7 @@
 # prereqs-install
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/vJThaBx.png" alt="osTicket logo"/>
 </p>
-<h1>Microsoft Azure Virtual Machine - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of vitrual machines through Microsoft Azure.<br />
 
 <h2>Video Demonstration</h2>
 
