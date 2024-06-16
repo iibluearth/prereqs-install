@@ -3,10 +3,6 @@
 <img src="https://i.imgur.com/vJThaBx.png" alt="osTicket logo"/>
 </p>
 
-<h2>Video Demonstration</h2>
-
- ### [YouTube: How To Create a Virtual Machine with Microsoft Azure](https://www.youtube.com)
-
  <h2>Environments and Technologies Used</h2>
 
  - Microsoft Azure (Virtual Machines/Compute)
