@@ -20,7 +20,7 @@
  <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/Kpy6rXd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3dz4Weq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 1. Start Free Azure Account:
@@ -30,7 +30,7 @@ Go to azure.microsoft.com/en-us/free and click "Start free."
 <br />
 
 <p>
-<img src="https://i.imgur.com/eCds3Bh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AjvEYJO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 2. Account Setup:
@@ -51,7 +51,7 @@ In the search bar, type "Virtual machines".
 <br />
 
 <p>
-<img src="https://i.imgur.com/Pi2qPm8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/yhmYcHf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 4. Create Virtual Machine:
@@ -61,10 +61,10 @@ Click "Create" and then "Azure virtual machine."
 <br />
 
 <p>
-<img src="https://i.imgur.com/TK08obh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/w650FkZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://i.imgur.com/0RRN5Dk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tZyVFaL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
@@ -82,7 +82,7 @@ Click "Create" and then "Azure virtual machine."
 <br />
 
 <p>
-<img src="https://i.imgur.com/K8WDVph.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MnWi05f.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 6. Create VM:
@@ -92,7 +92,7 @@ Wait for validation to pass, then click "Create."
 <br />
 
 <p>
-<img src="https://i.imgur.com/oX8ashH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0cuquBN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 7. Wait for Deployment:
@@ -102,7 +102,7 @@ Wait until you see "Your deployment is complete."
 <br />
 
 <p>
-<img src="https://i.imgur.com/5WKq2IW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3eff9uv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 8. Access VM:
@@ -113,18 +113,18 @@ Copy the "Public IP address."
 <br />
 
 <p>
-<img src="https://i.imgur.com/96bhRNi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LqbvG6j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <p>
-<img src="https://i.imgur.com/vpXFJIx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7nsTPor.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <p>
-<img src="https://i.imgur.com/1zuYWFg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MRFIuFI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
- <img src="https://i.imgur.com/I6PgfB7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://i.imgur.com/E9NtnS7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  
@@ -139,7 +139,7 @@ Copy the "Public IP address."
 <br />
 
 <p>
-<img src="https://i.imgur.com/kZXXGPr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LQln2z1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 10. Whoop-whoop!
