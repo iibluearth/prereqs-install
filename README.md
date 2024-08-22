@@ -41,7 +41,7 @@ New users get $200 free credit for 30 days.
 <br />
 
 <p>
-<img src="https://i.imgur.com/SZvJmqm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9ocZ89o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 3. Navigate to Virtual Machines:
